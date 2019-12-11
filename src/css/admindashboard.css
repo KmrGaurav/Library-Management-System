@@ -1,0 +1,32 @@
+.admindashboard div
+{
+	
+	color:#000;
+	margin-left:50px;
+	margin-right:50px;
+	
+	height:200px;
+	font-size:25px;
+	
+	float: left;
+	clear: none;
+	
+}
+
+#rcorners1 {
+	
+    border-radius: 15px 50px 30px;
+    background: url(../background.png);
+    padding: 10px; 
+    width: 290px;
+    height: 140px; 
+}
+#rcorners2 {
+	
+    border-radius: 50px 15px 30px;
+    background: url(../background.png);
+    padding: 10px; 
+	padding-top:30px;
+    width: 270px;
+    height: 120px; 
+}
